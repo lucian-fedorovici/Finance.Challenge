@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="b326e3e5-d177-4d4f-a76b-7981b0a6f194" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>true</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:61153/VatCodes.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="VatCodes.wsdl" MetadataType="Wsdl" ID="04df15b9-0d0a-45cb-a063-599c7d315ac5" SourceId="1" SourceUrl="http://localhost:61153/VatCodes.svc?wsdl" />
+    <MetadataFile FileName="VatCodes.xsd" MetadataType="Schema" ID="0e7908e9-7036-4bef-bee2-0f5b2940bf16" SourceId="1" SourceUrl="http://localhost:61153/VatCodes.svc?xsd=xsd3" />
+    <MetadataFile FileName="VatCodes1.xsd" MetadataType="Schema" ID="9a3270f1-780a-4933-9e34-7f84fb612025" SourceId="1" SourceUrl="http://localhost:61153/VatCodes.svc?xsd=xsd4" />
+    <MetadataFile FileName="VatCodes2.xsd" MetadataType="Schema" ID="579a858c-4a2f-4691-b600-00d1c751ce31" SourceId="1" SourceUrl="http://localhost:61153/VatCodes.svc?xsd=xsd2" />
+    <MetadataFile FileName="VatCodes3.xsd" MetadataType="Schema" ID="d754aed1-9a31-4f66-92aa-43e0cd95c429" SourceId="1" SourceUrl="http://localhost:61153/VatCodes.svc?xsd=xsd0" />
+    <MetadataFile FileName="VatCodes5.xsd" MetadataType="Schema" ID="10b6593d-0056-4475-a196-6df04c92435a" SourceId="1" SourceUrl="http://localhost:61153/VatCodes.svc?xsd=xsd5" />
+    <MetadataFile FileName="VatCodes.disco" MetadataType="Disco" ID="0df78366-7fd0-476a-bd0c-09f111705bcd" SourceId="1" SourceUrl="http://localhost:61153/VatCodes.svc?disco" />
+    <MetadataFile FileName="VatCodes4.xsd" MetadataType="Schema" ID="67b5bf1d-23b5-4a5e-a421-398e8c729122" SourceId="1" SourceUrl="http://localhost:61153/VatCodes.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
